@@ -21,7 +21,7 @@
     }
     // מחלקת בסיס
     
-    
+ 
     class Vehicle
     {
         private int id;
